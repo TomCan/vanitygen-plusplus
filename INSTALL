@@ -1,4 +1,8 @@
 Linux/OSX with GNU make:
+
+Prerequisites
+sudo apt-get install opencl-headers libpcre3-dev ocl-icd-libopencl1 ocl-icd-opencl-dev
+
 make
 
 Windows:
